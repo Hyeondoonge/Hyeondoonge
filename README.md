@@ -1,8 +1,7 @@
-### Hi there 👋
+### 반가워요! ☺️👋
 
-![Hyeondoonge's github stats](https://github-readme-stats.vercel.app/api?username=Hyeondoonge&show_icons=true&theme=merko)
+![Hyeondoonge's github stats](https://github-readme-stats.vercel.app/api?username=Hyeondoonge&show_icons=true&theme=react)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeondoonge)](https://hits.seeyoufarm.com)
 	
 <!--
 **Hyeondoonge/Hyeondoonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
