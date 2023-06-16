@@ -1,7 +1,4 @@
 ### 반가워요! ☺️👋
-
-![Hyeondoonge's github stats](https://github-readme-stats.vercel.app/api?username=Hyeondoonge&show_icons=true&theme=react)
-
 	
 <!--
 **Hyeondoonge/Hyeondoonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
